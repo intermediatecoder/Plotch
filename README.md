@@ -1,6 +1,6 @@
 # Plotch.ai Task 
 
-Deployed website link: [placeholder.link.something](placeholder.link.something)
+Deployed website link: [https://plotchtask.vercel.app](https://plotchtask.vercel.app)
 
 ## How to run
 
